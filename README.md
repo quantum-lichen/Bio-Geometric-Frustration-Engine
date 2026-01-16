@@ -52,7 +52,7 @@ graph TD
 
 ## 🚀 Applications & Roadmap
 
-* [x] **Phase 1 : Théorie** - Unification de la mécanique des plaques et de la botanique.
+* [x] **Phase 1 : Cadre théorique – mise en commun mécanique des plaques / botanique / morphogenèse.
 * [ ] **Phase 2 : Simulation** - Solveur éléments finis pour la croissance différentielle.
 * [ ] **Phase 3 : Synthèse** - Impression 4D de stents auto-déployables basés sur la métrique inverse.
 * [ ] **Phase 4 : Robotique** - Actionneurs bistables "Snap-through" à haute efficacité énergétique.
