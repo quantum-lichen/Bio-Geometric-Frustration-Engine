@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this theoretical framework, please cite it as below."
+authors:
+  - family-names: "Ouellette"
+    given-names: "Bryan"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Morphogenèse, Frustration Géométrique et Métamatériaux Biologiques"
+version: 1.0.0
+date-released: 2026-01-16
+url: "https://github.com/BryanOuellette/Bio-Geometric-Frustration-Engine"
+abstract: >-
+  Ce travail présente une théorie unifiée de la forme biologique, expliquant comment la frustration géométrique 
+  pilote l'auto-organisation du vivant et permet la création de métamatériaux programmables 4D.
