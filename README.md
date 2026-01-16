@@ -59,7 +59,7 @@ graph TD
 
 ---
 
-**Auteur :** Dr. Bryan Ouellette
+**Auteur :** Bryan Ouellette
 
 ```
 
