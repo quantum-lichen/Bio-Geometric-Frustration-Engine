@@ -1,4 +1,4 @@
-# **Morphogenèse, Frustration Géométrique et Métamatériaux Biologiques : Une Théorie Unifiée de la Forme et de la Fonction**
+# **Morphogenèse, Frustration Géométrique et Métamatériaux Biologiques : Une Théorie de la Forme et de la Fonction**
 
 ## **1\. Introduction : La Forme comme État d'Énergie Minimale**
 
